@@ -1,0 +1,16 @@
+PODS:
+  - NewiOSUtility_New (0.1.0)
+
+DEPENDENCIES:
+  - NewiOSUtility_New (from `../`)
+
+EXTERNAL SOURCES:
+  NewiOSUtility_New:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  NewiOSUtility_New: 8cb393a89d07bab2398791756cbfff8ce3b71da0
+
+PODFILE CHECKSUM: 29f7be765d7b5d724926e4f2ae9aeec68dd20cbf
+
+COCOAPODS: 1.5.3
